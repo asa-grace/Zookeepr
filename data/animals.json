@@ -126,6 +126,17 @@
         "hungry"
       ],
       "id": "12"
+    },
+    {
+      "name": "larry",
+      "species": "monkay",
+      "diet": "folivore",
+      "personalityTraits": [
+        "zany",
+        "anxious",
+        "loving"
+      ],
+      "id": "13"
     }
   ]
 }
